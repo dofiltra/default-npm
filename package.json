@@ -41,7 +41,7 @@
     "lib/**/*"
   ],
   "dependencies": {
-    "is-running-process": "^1.0.0",
-    "time-helpers": "^1.0.0"
+    "time-helpers": "^1.0.0",
+    "esm-requirer":"^1.0.3"
   }
 }
