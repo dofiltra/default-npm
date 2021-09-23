@@ -21,9 +21,7 @@
     "type": "git",
     "url": "git+https://github.com/Ty4ka/package_name.git"
   },
-  "keywords": [
-    "proccess"
-  ],
+  "keywords": [],
   "author": "Dmitrii Osipovich",
   "license": "ISC",
   "bugs": {
@@ -41,7 +39,8 @@
     "lib/**/*"
   ],
   "dependencies": {
-    "time-helpers": "^1.0.0",
-    "esm-requirer":"^1.0.3"
+    "dotenv": "^10.0.0",
+    "esm-requirer": "^1.0.3",
+    "time-helpers": "^1.0.0"
   }
 }
